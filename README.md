@@ -155,3 +155,9 @@ The implemented screens support intake exploration, human review, follow-up trac
 This is a **public portfolio showcase**, not the application source repository. Source code, database files, internal architecture, detailed process maps, business rules, scoring formulas and development history remain private. This repository contains presentation material only.
 
 Copyright © 2026. All rights reserved. No open-source license or implementation rights are granted.
+
+## Who it benefits
+
+Service-company owners, intake coordinators, dispatchers and technicians: visible requests, assigned follow-ups and clearer workload ownership.
+
+These are intended users and benefits, not evidence of adoption or measured customer outcomes.
