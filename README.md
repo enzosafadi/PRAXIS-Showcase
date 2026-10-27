@@ -1,22 +1,16 @@
 # PRAXIS
 
-### Contractor & Service Operations
+### Business Process Optimization & Automation
 
-**A product in development for plumbing and trade contractors: crews, job sites, work progress and job costs in one operational workspace.**
+**Simulated operations, SQL database, EPC process maps, and human-reviewed workflows.**
 
-PRAXIS is evolving from a business-process and service-intake prototype into contractor management software. Its intended users are owners, dispatchers, supervisors and field employees managing both short service calls and longer construction or renovation projects.
+PRAXIS is an operations software prototype built around a practical business problem: incoming service requests need clear review, ownership and follow-through. A message being read does not mean the underlying issue has been resolved.
 
-**Status: functional local prototype, with the contractor expansion specified for development.** The current application demonstrates intake review, assigned follow-ups, technician workload and coordinator-confirmed allocation. Contractor projects, employee accounts, time tracking, costing and a mobile app are not implemented yet.
-
-- [Contractor business case and planned first release](docs/contractor-overview.md)
-- All demonstration records and results are simulated.
-- No customer deployment, store release, endorsement or measured business benefit is claimed.
+The demonstration follows a fictional commercial-equipment maintenance company in Quebec. It brings service intake, coordinator review, assigned follow-ups and technician visibility into one workspace.
 
 ![PRAXIS request inbox](assets/screenshots/SS1_Request-Inbox.jpg)
 
-## Application screenshots — existing prototype
-
-These screens show the original fictional equipment-maintenance scenario. They are not previews of completed contractor or mobile features.
+## Application screenshots
 
 Actual PRAXIS screens with linked simulated operating data. No hosted application is required to view these previews.
 
@@ -151,8 +145,6 @@ All names, communications and business records are fictional. The dataset is a d
 The work combines process analysis, data modelling, application development and functional validation. The current private implementation has passed **54 automated tests**, including data integrity, review persistence, follow-up handling, technician workload isolation and score calculations.
 
 ## Project status
-
-**Next product milestone:** a complete contractor workflow covering request → project/site → crew assignment → employee progress and time → completion evidence → manager approval. See the [contractor overview](docs/contractor-overview.md) for planned scope.
 
 **Functional local prototype — under active development.**
 
