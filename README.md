@@ -1,5 +1,9 @@
 # PRAXIS
 
+## Project roadmap — concept to sale
+
+![Current project timeline](docs/project-roadmap.svg)
+
 ### Business Process Optimization & Automation
 
 **Simulated operations, SQL database, EPC process maps, and human-reviewed workflows.**
