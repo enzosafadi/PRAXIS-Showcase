@@ -165,3 +165,7 @@ Copyright © 2026. All rights reserved. No open-source license or implementation
 Service-company owners, intake coordinators, dispatchers and technicians: visible requests, assigned follow-ups and clearer workload ownership.
 
 These are intended users and benefits, not evidence of adoption or measured customer outcomes.
+
+## Repository verification
+
+[Current scoped verification results](VERIFICATION.md). Run `python tools/verify_repository.py --visibility public`.
